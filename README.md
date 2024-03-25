@@ -30,5 +30,28 @@ Enhance the visitor experience: CityWander helps tourists discover the city’s 
 Enhance the cultural heritage: CityWander helps preserve and celebrate the city's rich cultural heritage.
 Encourage economic growth: CityWander supports tourism and local businesses, boosting economic activity, creating jobs and driving sustainable growth for the tourism industry.
 Global scalability: CityWander’s scalable infrastructure and flexible content frameworks enable it to scale to other cities around the world, providing travelers with an immersive experience and insights no matter where they are in the world.
+
 What is CityWander?
 CityExplore’s mission is to revolutionize the city exploration experience by combining state-of-the-art technology, curated content, and community engagement to enrich the tourist experience.
+
+Instructions for CityWander Website:
+
+Getting Started:
+1.Upon visiting the CityWander website, users will be greeted with a welcoming homepage showcasing featured tours and popular destinations.
+2.Encourage users to sign up or log in to unlock personalized features such as saving favorite places and creating custom itineraries.
+
+Exploring Guided Tours:
+1.Navigate to the "Guided Tours" section to browse through a variety of tours available.
+2.Each tour should be accompanied by a brief description, highlighting its theme, duration, and key attractions covered.
+
+Historical Insights and Multimedia Resources:
+1.Make the "Historical Data" section easily accessible for users seeking deeper insights into the city's heritage.
+2.Organize historical information by neighborhoods, landmarks, or time periods for easy exploration.
+
+Interactive Maps and Navigation:
+1.Utilize the integrated HERE Location Services-powered maps for seamless navigation.
+2.Ensure that users can view tour routes, points of interest, and nearby amenities on the map interface.
+
+Feedback and Improvement:
+1.Collect feedback from users through surveys, feedback forms, or user analytics to continuously improve the website.
+2.Regularly update content, add new tours, and incorporate user suggestions to keep the experience fresh and engaging.
